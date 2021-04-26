@@ -5,8 +5,11 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 ## Install
 
 `$ git clone git@github.com:arcadefx/flex-layout-demo.git`
+
 `$ cd flex-layout-demo`
+
 `$ npm i`
+
 `$ ng serve`
 
 
